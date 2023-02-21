@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on my computer :laughing: 
 - 🌱 I’m currently learning Front End Web Development from Udacity :school:
