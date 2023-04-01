@@ -1,25 +1,25 @@
-### Hello there 👋
+<h1 align="center">Hi 👋, I'm Deltrece</h1>
+<h3 align="center">A passionate frontend developer from Ohio</h3>
 
-- 🔭 I’m currently working on my computer :woman_technologist: 
-- 🌱 I’m currently learning Front End Web Development from Udacity :school:
-- 👯 I’m looking to collaborate on coding my first business website :briefcase:
-- 🤔 I’m looking for help with understanding coding terminology :eyeglasses:
-- 💬 Ask me about my cat :cat2:
-- 📫 How to reach me: Email :inbox_tray:
-- 😄 Pronouns: she/her :woman:
-- ⚡ Fun fact: I've bikepacked 250 miles over 3 days along the G.A.P. :bike:
+- 🔭 I’m currently working on [My Blog Website](https://github.com/deltrece/blog.git)
 
-<!--
-**Deltrece/Deltrece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Javascript**
 
-Here are some ideas to get you started:
+- 📝 I regularly write articles on life's adventures [www.deltrece.net](www.deltrece.net)
 
-- 🔭 I’m currently working on Black History Information
-- 🌱 I’m currently learning Front End Web Development
-- 👯 I’m looking to collaborate on hosting virtual events
-- 🤔 I’m looking for help with understanding coding terminology
-- 💬 Ask me about my cat :cat2:
-- 📫 How to reach me: :inbox_tray:
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I've bikepacked along the G.A.P.
--->
+- 💬 Ask me about **my cat 🐈**
+
+- 📫 How to reach me **hello@deltrece.net**
+
+- ⚡ Fun fact **I've bikepacked 250 miles over 3 days along the G.A.P. 🚲**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/deltrece3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deltrece3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deltrece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deltrece" height="30" width="40" /></a>
+<a href="https://fb.com/deltrece3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deltrece3d" height="30" width="40" /></a>
+<a href="https://instagram.com/deltrece3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deltrece3d" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
