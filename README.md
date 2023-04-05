@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📝 I regularly write articles on life's adventures [www.deltrece.net](www.deltrece.net)
+- 📝 I regularly write mini-blog articles on my life's adventures on [www.deltrece.net](www.deltrece.net)
 
 - 💬 Ask me about **my cat 🐈**
 
