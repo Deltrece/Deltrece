@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deltrece</h1>
 <h3 align="center">A passionate frontend developer from Ohio</h3>
 
-- 🔭 I’m currently working on [My Blog Website](https://deltrece.net)
+- 🔭 I’m currently working on designing websites for clients
 
 - 🌱 I’m currently learning **Javascript** & **React**
 
-- 📝 I quarterly write mini-blog articles on my life's adventures on [www.deltrece.net](www.deltrece.net)
+- 📝 I write mini-blog articles quarterly about life's adventures on [www.deltrece.net](www.deltrece.net)
 
 - 💬 Ask me about **my cat :cat:**
 
